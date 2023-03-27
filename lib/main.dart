@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Jankenpo',
       home: Options(),
+      debugShowCheckedModeBanner: false
     );
   }
 }
