@@ -30,4 +30,4 @@ You will see there that I store the icons in my personal website (complete path 
 
 ## Video demonstrating the app execution
 
-[this Jankenpo Flutter video](https://www.youtube.com/watch?v=67BVrUJrPk4)
+[this Jankenpo Flutter video demonstration](https://www.youtube.com/watch?v=67BVrUJrPk4)
