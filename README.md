@@ -31,3 +31,7 @@ You will see there that I store the icons in my personal website (complete path 
 ## Video demonstrating the app execution
 
 [this Jankenpo Flutter video demonstration](https://www.youtube.com/watch?v=67BVrUJrPk4)
+
+## Course
+
+I studied in this curse. This course is amazing: ![Udemy - desenvolva um cadastro completo](https://www.udemy.com/course/flutter-desenvolva-um-cadastro-completo-2020/learn/lecture/19975810).
