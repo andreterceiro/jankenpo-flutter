@@ -34,4 +34,4 @@ You will see there that I store the icons in my personal website (complete path 
 
 ## Course
 
-I studied in this curse. This course is amazing: ![Udemy - desenvolva um cadastro completo](https://www.udemy.com/course/flutter-desenvolva-um-cadastro-completo-2020/learn/lecture/19975810).
+I studied in this curse. This course is amazing: https://www.udemy.com/course/flutter-desenvolva-um-cadastro-completo-2020/learn/lecture/19975810.
